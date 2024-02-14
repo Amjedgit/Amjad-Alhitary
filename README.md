@@ -14,8 +14,8 @@
 <h2 align="center">📩 Connect with me<h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/amjed-hitari-883aab180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" width="60" /></a>
-<a href="https://www.facebook.com/profile.php?id=100014556108757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hemeda101" height="50" width="60" /></a>
-<a href="https://instagram.com/hemeda101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemeda101" height="50" width="60" /></a>
+<a href="https://www.facebook.com/profile.php?id=100014556108757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Amjad" height="50" width="60" /></a>
+<a href="https://www.instagram.com/amjad_alhetary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemeda101" height="50" width="60" /></a>
 </p>
 
 <h2 align="center">🛠 Languages and Tools<h2>
